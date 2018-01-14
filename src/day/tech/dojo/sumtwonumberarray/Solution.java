@@ -1,4 +1,4 @@
-package day.tech.sumtwonumberarray;
+package day.tech.dojo.sumtwonumberarray;
 
 import java.util.HashSet;
 import java.util.Set;

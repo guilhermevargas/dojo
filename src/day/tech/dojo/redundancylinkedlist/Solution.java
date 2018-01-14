@@ -1,4 +1,4 @@
-package day.tech.redundancylinkedlist;
+package day.tech.dojo.redundancylinkedlist;
 
 import java.util.HashSet;
 
