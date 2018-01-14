@@ -8,7 +8,7 @@ public class Solution {
 			return "not pangram";
 		}
 
-		char[] letters = word.toLowerCase().replaceAll("^a-z]", "").toCharArray();
+		char[] letters = word.toLowerCase().toCharArray();
 
 		HashSet<Character> setAlphabet = new HashSet<Character>();
 
